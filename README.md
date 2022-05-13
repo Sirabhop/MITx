@@ -1,3 +1,3 @@
 # MITx
 
-####**1. MITx 6.00.2x Introduction to Computational Thinking and Data Science**
+#### **1. MITx 6.00.2x Introduction to Computational Thinking and Data Science**
